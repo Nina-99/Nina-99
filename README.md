@@ -11,21 +11,24 @@
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/es/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgresql"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
 
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=anaconda"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>]()
 
 #### Tools:
 
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arch"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -34,15 +37,51 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Nina-99&theme=transparent&show_icons=true&title_color=34FF14&hide_border=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nina-99&layout=compact&theme=transparent&title_color=34FF14&hide_border=true" />
+   <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&hide_border=true"/>
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&hide_border=true"/>
+  </picture>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Nina-99&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Nina-99&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img width="48%" src="https://streak-stats.demolab.com?user=Nina-99&hide_border=true"/>
+  </picture>
 </div>
+
 
 <br>
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://portal.sistemas.edu.bo/images/logos/INFrojo.png"/>](https://portal.sistemas.edu.bo/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.sisinf.fni.uto.edu.bo/wp-content/uploads/2024/NewWeb/inicio/INFrojo-150x150.png"/>](https://portal.sistemas.edu.bo/)
 **Software Engineering Undergraduate** \
 [**FNI**](https://portal.sistemas.edu.bo/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
@@ -59,4 +98,4 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 
 ------
 Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
+Last Edited on: 12/12/2025
