@@ -72,7 +72,6 @@
       srcset="https://streak-stats.demolab.com?user=Nina-99&theme=default&hide_border=true" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img width="48%" src="https://streak-stats.demolab.com?user=Nina-99&hide_border=true"/>
   </picture>
 </div>
 
