@@ -32,8 +32,11 @@ jobs:
           plugin_stars: true
           plugin_activity: true
 
+      - name: Fix metrics permissions
+        run: sudo chown -R runner:runner metrics/ && ls -l metrics/
+
       - name: Commit generated metrics
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update GitHub profile metrics"
           file_pattern: "metrics/*.svg"
