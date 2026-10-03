@@ -23,7 +23,7 @@
 
 #### Tools:
 
-<img height="48px" width="48px" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>
+[<img height="48px" width="48px" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>](<>)
 [<img height="48px" width="48px" alt="Neovim" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io)
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -36,7 +36,7 @@
       GitHub Statistics
     </h2>
     <p align="center">
-      <img src="metrics.svg" width="100%" alt="GitHub Profile Metrics"/>
+      <img src="metrics.svg" width="55%" alt="GitHub Profile Metrics"/>
     </p>
 </div>
 
