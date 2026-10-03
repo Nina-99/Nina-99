@@ -54,30 +54,6 @@
     <p align="center">
       <img src="metrics/activity.svg" width="100%" alt="GitHub activity">
     </p>
-    <!-- Top Languages -->
-    <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&hide_border=true"/>
-    </picture>
-    <!-- Streak Stats -->
-    <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=Nina-99&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=Nina-99&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    </picture>
-
 </div>
 
 <br>
