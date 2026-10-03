@@ -37,16 +37,19 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
-   <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&theme=dark&hide_border=true" 
-      media="(prefers-color-scheme: dark)" 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Nina-99&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
     />
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Nina-99&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nina-99&show_icons=true&hide_border=true"/>
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api?username=Nina-99&show_icons=true&hide_border=true"
+    />
   </picture>
 
   <!-- Top Languages -->
