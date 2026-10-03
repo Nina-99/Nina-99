@@ -14,29 +14,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Generate profile metrics
-        uses: mjun0812/github-metrics@v5
+      - uses: lowlighter/metrics@latest
         with:
-          user: Nina-99
           token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
+          filename: metrics.svg
+          base: header
+          config_order: base.header, isocalendar, languages, habits
 
-          output_dir: ./metrics/
-          output_action: none
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-          plugin_header: true
-          plugin_languages: true
-          plugin_stars: true
-          plugin_activity: true
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
 
-      - name: Fix metrics permissions
-        run: sudo chown -R runner:runner metrics/ && ls -l metrics/
-
-      - name: Commit generated metrics
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "chore: update GitHub profile metrics"
-          file_pattern: "metrics/*.svg"
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
