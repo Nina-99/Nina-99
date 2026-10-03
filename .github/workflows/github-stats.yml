@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate profile metrics
         uses: mjun0812/github-metrics@v5
@@ -25,12 +25,15 @@ jobs:
           template: classic
 
           output_dir: ./metrics/
-          output_action: commit
-          output_condition: data-changed
-          committer_branch: main
-          committer_message: "chore: update GitHub profile metrics"
+          output_action: none
 
           plugin_header: true
           plugin_languages: true
           plugin_stars: true
           plugin_activity: true
+
+      - name: Commit generated metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub profile metrics"
+          file_pattern: "metrics/*.svg"
