@@ -36,7 +36,7 @@
       GitHub Statistics
     </h2>
     <p align="center">
-      <img src="metrics.svg" width="55%" alt="GitHub Profile Metrics"/>
+      <img src="metrics.svg" width="80%" alt="GitHub Profile Metrics"/>
     </p>
 </div>
 
