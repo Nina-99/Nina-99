@@ -41,24 +41,19 @@
     <h1 align="center">
       Hi 👋, I'm Nina
     </h1>
-
     <p align="center">
-      <img src="metrics/header.svg" width="100%" alt="GitHub Profile Metrics">
+      <img src="metrics/header.svg" width="100%" alt="GitHub Profile Metrics"/>
     </p>
-
     <h2 align="center">
       GitHub Statistics
     </h2>
-
     <p align="center">
       <img src="metrics/languages.svg" width="48%" alt="Most used languages">
       <img src="metrics/stars.svg" width="48%" alt="Repository stars">
     </p>
-
     <p align="center">
       <img src="metrics/activity.svg" width="100%" alt="GitHub activity">
     </p>
-
     <!-- Top Languages -->
     <picture>
     <source
@@ -71,7 +66,6 @@
     />
     <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nina-99&layout=compact&hide_border=true"/>
     </picture>
-
     <!-- Streak Stats -->
     <picture>
     <source
