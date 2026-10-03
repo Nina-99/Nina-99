@@ -11,36 +11,27 @@
 
 #### Main Stack:
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/es/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgresql"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
-
-#### Studying in this moment:
-
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=anaconda"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](<>)
+[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/es/)
+<img height="48px" width="48px" alt="Go" src="https://skillicons.dev/icons?i=go"/>
+<img height="48px" width="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"/>
+<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>
+<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>
+<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>
+[<img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
 
 #### Tools:
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arch"/>](<>)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+<img height="48px" width="48px" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>
+[<img height="48px" width="48px" alt="Neovim" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io)
+[<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 <br>
 
-<div align="center" style="margin-bottom:200px">
-    <h1 align="center">
-      Hi 👋, I'm Nina
-    </h1>
+<div align="center">
     <h2 align="center">
       GitHub Statistics
     </h2>
@@ -71,4 +62,3 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 ---
 
 Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 12/12/2025
