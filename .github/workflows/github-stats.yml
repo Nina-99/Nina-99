@@ -1,0 +1,39 @@
+name: Update GitHub Profile Metrics
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile metrics
+        uses: mjun0812/github-metrics@latest
+        with:
+          user: Nina-99
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          output_dir: ./metrics/
+
+          output_action: none
+
+          plugin_header: true
+          plugin_languages: true
+          plugin_stars: true
+          plugin_activity: true
+
+      - name: Commit generated metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub profile metrics"
+          file_pattern: "metrics/*.svg"
